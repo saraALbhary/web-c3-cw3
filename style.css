@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Katibeh&display=swap');
+
+.text-color{
+    color: blue;
+    background-color: black;
+}
+
+#color{
+   color: brown;    
+}
+
+h1{
+    font-family: 'Katibeh', cursive;
+}
+
+p{font-weight: 900;}
